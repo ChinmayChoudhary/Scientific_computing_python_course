@@ -3,5 +3,5 @@ This contains five small projects of Scientific computing with python certificat
 1) Arithmetic Formatter
 2) Time Calculator
 3) Budget App
-4 Polygon Area Calculator
-5 Probability Calculator
+4) Polygon Area Calculator
+5) Probability Calculator
